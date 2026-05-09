@@ -3,8 +3,8 @@
  * Author: Olivier Sirol <czo@free.fr>
  * License: GPL-2.0 (http://www.gnu.org/copyleft)
  * File Created: 18 février 2010
- * Last Modified: Saturday 09 May 2026, 14:25
- * Edit Time: 3:13:01
+ * Last Modified: Saturday 09 May 2026, 16:35
+ * Edit Time: 3:13:42
  * Description:
  *
  *     usbreset: send a USB port reset to a USB device
@@ -14,7 +14,7 @@
  * Copyright: (C) 2010-2026 Olivier Sirol <czo@free.fr>
  */
 
-#ident "$Id: usbreset.c,v 1.6 2026/05/04 17:25:47 czo Exp $"
+#ident "$Id: usbreset.c,v 1.42 2026/05/09 16:35:47 czo Git $"
 
 // SPDX-License-Identifier: GPL-2.0
 /* usbreset -- send a USB port reset to a USB device */
