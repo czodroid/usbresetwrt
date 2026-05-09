@@ -3,15 +3,15 @@
  * Author: Olivier Sirol <czo@free.fr>
  * License: GPL-2.0 (http://www.gnu.org/copyleft)
  * File Created: 18 février 2010
- * Last Modified: Tuesday 27 February 2024, 18:26
- * Edit Time: 3:06:30
+ * Last Modified: Saturday 09 May 2026, 13:56
+ * Edit Time: 3:07:27
  * Description:
  *
  *     usbreset: send a USB port reset to a USB device
  *     Copyright (c) 2009-2016 Alan Stern
  *     To build:  gcc -o usbreset usbreset.c
  *
- * Copyright: (C) 2010-2024 Olivier Sirol <czo@free.fr>
+ * Copyright: (C) 2010-2026 Olivier Sirol <czo@free.fr>
  */
 
 #ident "$Id: usbreset.c,v 1.6 2026/05/04 17:25:47 czo Exp $"
