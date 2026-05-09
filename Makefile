@@ -2,13 +2,12 @@
 # Author: Olivier Sirol <czo@free.fr>
 # License: GPL-2.0 (http://www.gnu.org/copyleft)
 # File Created: 27 February 2024
-# Last Modified: Saturday 09 May 2026, 13:54
-# Edit Time: 3:55:38
+# Last Modified: Saturday 09 May 2026, 14:00
+# Edit Time: 3:56:03
 # Description:
 #
 #        OpenWRT Makefile for usbreset
-#        with no libs
-#        clone of usbutils
+#        clone of usbutils without lsusb
 #        from @KERNEL/linux/utils/usb/usbutils
 #
 # Copyright: (C) 2024-2026 Olivier Sirol <czo@free.fr>
